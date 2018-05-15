@@ -10,7 +10,7 @@
     "url": "https://github.com/coryasilva/Leaflet.ExtraMarkers"
   },
   "main": "src/assets/js/leaflet.extra-markers.js",
-  "style": "src/assets/css/leaflet.extra-markers.css"
+  "style": "src/assets/css/leaflet.extra-markers.css",
   "typings": "index.d.ts",
   "devDependencies": {
     "grunt": "^0.4.5",
